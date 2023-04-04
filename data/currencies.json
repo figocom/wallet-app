@@ -1,0 +1,686 @@
+[
+  {
+    "code": "840",
+    "ccy": "USD",
+    "ccyNm_RU": "Доллар США",
+    "ccyNm_UZ": "AQSH dollari",
+    "ccyNm_UZC": "АҚШ доллари",
+    "ccyNm_EN": "US Dollar",
+    "nominal": "1"
+  },
+  {
+    "code": "978",
+    "ccy": "EUR",
+    "ccyNm_RU": "Евро",
+    "ccyNm_UZ": "EVRO",
+    "ccyNm_UZC": "EВРО",
+    "ccyNm_EN": "Euro",
+    "nominal": "1"
+  },
+  {
+    "code": "643",
+    "ccy": "RUB",
+    "ccyNm_RU": "Российский рубль",
+    "ccyNm_UZ": "Rossiya rubli",
+    "ccyNm_UZC": "Россия рубли",
+    "ccyNm_EN": "Russian Ruble",
+    "nominal": "1"
+  },
+  {
+    "code": "826",
+    "ccy": "GBP",
+    "ccyNm_RU": "Фунт стерлингов",
+    "ccyNm_UZ": "Angliya funt sterlingi",
+    "ccyNm_UZC": "Англия фунт стерлинги",
+    "ccyNm_EN": "Pound Sterling",
+    "nominal": "1"
+  },
+  {
+    "code": "392",
+    "ccy": "JPY",
+    "ccyNm_RU": "Иена",
+    "ccyNm_UZ": "Yaponiya iyenasi",
+    "ccyNm_UZC": "Япония иенаси",
+    "ccyNm_EN": "Japan Yen",
+    "nominal": "1"
+  },
+  {
+    "code": "944",
+    "ccy": "AZN",
+    "ccyNm_RU": "Азербайджанский манат",
+    "ccyNm_UZ": "Ozarbayjon manati",
+    "ccyNm_UZC": "Озарбайжон манати",
+    "ccyNm_EN": "Azerbaijan Manat",
+    "nominal": "1"
+  },
+  {
+    "code": "050",
+    "ccy": "BDT",
+    "ccyNm_RU": "Бангладешская така",
+    "ccyNm_UZ": "Bangladesh takasi",
+    "ccyNm_UZC": "Бангладеш такаси",
+    "ccyNm_EN": "Bangladesh Taka",
+    "nominal": "1"
+  },
+  {
+    "code": "975",
+    "ccy": "BGN",
+    "ccyNm_RU": "Болгарский лев",
+    "ccyNm_UZ": "Bolgariya levi",
+    "ccyNm_UZC": "Болгария леви",
+    "ccyNm_EN": "Bulgarian Lev",
+    "nominal": "1"
+  },
+  {
+    "code": "048",
+    "ccy": "BHD",
+    "ccyNm_RU": "Бахрейнский динар",
+    "ccyNm_UZ": "Bahrayn dinori",
+    "ccyNm_UZC": "Баҳрайн динори",
+    "ccyNm_EN": "Bahraini Dinar",
+    "nominal": "1"
+  },
+  {
+    "code": "096",
+    "ccy": "BND",
+    "ccyNm_RU": "Брунейский доллар",
+    "ccyNm_UZ": "Bruney dollari",
+    "ccyNm_UZC": "Бруней доллари",
+    "ccyNm_EN": "Brunei Dollar",
+    "nominal": "1"
+  },
+  {
+    "code": "986",
+    "ccy": "BRL",
+    "ccyNm_RU": "Бразильский реал",
+    "ccyNm_UZ": "Braziliya reali",
+    "ccyNm_UZC": "Бразилия реали",
+    "ccyNm_EN": "Brazilian Real",
+    "nominal": "1"
+  },
+  {
+    "code": "933",
+    "ccy": "BYN",
+    "ccyNm_RU": "Белорусский рубль",
+    "ccyNm_UZ": "Belorus rubli",
+    "ccyNm_UZC": "Белорус рубли",
+    "ccyNm_EN": "Belarusian Ruble",
+    "nominal": "1"
+  },
+  {
+    "code": "124",
+    "ccy": "CAD",
+    "ccyNm_RU": "Канадский доллар",
+    "ccyNm_UZ": "Kanada dollari",
+    "ccyNm_UZC": "Канада доллари",
+    "ccyNm_EN": "Canadian Dollar",
+    "nominal": "1"
+  },
+  {
+    "code": "756",
+    "ccy": "CHF",
+    "ccyNm_RU": "Швейцарский франк",
+    "ccyNm_UZ": "Shveytsariya franki",
+    "ccyNm_UZC": "Швейцария франки",
+    "ccyNm_EN": "Swiss Franc",
+    "nominal": "1"
+  },
+  {
+    "code": "156",
+    "ccy": "CNY",
+    "ccyNm_RU": "Юань ренминби",
+    "ccyNm_UZ": "Xitoy yuani",
+    "ccyNm_UZC": "Хитой юани",
+    "ccyNm_EN": "Yuan Renminbi",
+    "nominal": "1"
+  },
+  {
+    "code": "192",
+    "ccy": "CUP",
+    "ccyNm_RU": "Кубинское песо",
+    "ccyNm_UZ": "Kuba pesosi",
+    "ccyNm_UZC": "Куба песоси",
+    "ccyNm_EN": "Cuban Peso",
+    "nominal": "1"
+  },
+  {
+    "code": "203",
+    "ccy": "CZK",
+    "ccyNm_RU": "Чешская крона",
+    "ccyNm_UZ": "Chexiya kronasi",
+    "ccyNm_UZC": "Чехия кронаси",
+    "ccyNm_EN": "Czech Koruna",
+    "nominal": "1"
+  },
+  {
+    "code": "208",
+    "ccy": "DKK",
+    "ccyNm_RU": "Датская крона",
+    "ccyNm_UZ": "Daniya kronasi",
+    "ccyNm_UZC": "Дания кронаси",
+    "ccyNm_EN": "Danish Krone",
+    "nominal": "1"
+  },
+  {
+    "code": "012",
+    "ccy": "DZD",
+    "ccyNm_RU": "Алжирский динар",
+    "ccyNm_UZ": "Jazoir dinori",
+    "ccyNm_UZC": "Жазоир динори",
+    "ccyNm_EN": "Algerian Dinar",
+    "nominal": "1"
+  },
+  {
+    "code": "818",
+    "ccy": "EGP",
+    "ccyNm_RU": "Египетский фунт",
+    "ccyNm_UZ": "Misr funti",
+    "ccyNm_UZC": "Миср фунти",
+    "ccyNm_EN": "Egyptian Pound",
+    "nominal": "1"
+  },
+  {
+    "code": "971",
+    "ccy": "AFN",
+    "ccyNm_RU": "Афгани",
+    "ccyNm_UZ": "Afg‘oniston afg‘onisi",
+    "ccyNm_UZC": "Афғонистон афғониси",
+    "ccyNm_EN": "AF Afghani",
+    "nominal": "1"
+  },
+  {
+    "code": "032",
+    "ccy": "ARS",
+    "ccyNm_RU": "Аргентинское песо",
+    "ccyNm_UZ": "Argentina pesosi",
+    "ccyNm_UZC": "Аргентина песоси",
+    "ccyNm_EN": "Argentine Peso",
+    "nominal": "1"
+  },
+  {
+    "code": "981",
+    "ccy": "GEL",
+    "ccyNm_RU": "Грузинский лари",
+    "ccyNm_UZ": "Gruziya larisi",
+    "ccyNm_UZC": "Грузия лариси",
+    "ccyNm_EN": "Georgian Lari",
+    "nominal": "1"
+  },
+  {
+    "code": "344",
+    "ccy": "HKD",
+    "ccyNm_RU": "Гонгконгский доллар",
+    "ccyNm_UZ": "Gongkong dollari",
+    "ccyNm_UZC": "Гонгконг доллари",
+    "ccyNm_EN": "Hong Kong Dollar",
+    "nominal": "1"
+  },
+  {
+    "code": "348",
+    "ccy": "HUF",
+    "ccyNm_RU": "Венгерский форинт",
+    "ccyNm_UZ": "Vengriya forinti",
+    "ccyNm_UZC": "Венгрия форинти",
+    "ccyNm_EN": "Hungarian Forint",
+    "nominal": "1"
+  },
+  {
+    "code": "360",
+    "ccy": "IDR",
+    "ccyNm_RU": "Рупия",
+    "ccyNm_UZ": "Indoneziya rupiyasi",
+    "ccyNm_UZC": "Индонезия рупияси",
+    "ccyNm_EN": "Rupiah",
+    "nominal": "1"
+  },
+  {
+    "code": "376",
+    "ccy": "ILS",
+    "ccyNm_RU": "Новый израильский шекель",
+    "ccyNm_UZ": "Isroil shekeli",
+    "ccyNm_UZC": "Исроил шекели",
+    "ccyNm_EN": "New Israeli Sheqel",
+    "nominal": "1"
+  },
+  {
+    "code": "356",
+    "ccy": "INR",
+    "ccyNm_RU": "Индийская рупия",
+    "ccyNm_UZ": "Hindiston rupiyasi",
+    "ccyNm_UZC": "Ҳиндистон рупияси",
+    "ccyNm_EN": "Indian Rupee",
+    "nominal": "1"
+  },
+  {
+    "code": "368",
+    "ccy": "IQD",
+    "ccyNm_RU": "Иракский динар",
+    "ccyNm_UZ": "Iroq dinori",
+    "ccyNm_UZC": "Ироқ динори",
+    "ccyNm_EN": "Iraqi Dinar",
+    "nominal": "3"
+  },
+  {
+    "code": "364",
+    "ccy": "IRR",
+    "ccyNm_RU": "Иранский риал",
+    "ccyNm_UZ": "Eron riali",
+    "ccyNm_UZC": "Эрон риали",
+    "ccyNm_EN": "Iranian Rial",
+    "nominal": "3"
+  },
+  {
+    "code": "352",
+    "ccy": "ISK",
+    "ccyNm_RU": "Исландская крона",
+    "ccyNm_UZ": "Islandiya kronasi",
+    "ccyNm_UZC": "Исландия кронаси",
+    "ccyNm_EN": "Iceland Krona",
+    "nominal": "1"
+  },
+  {
+    "code": "400",
+    "ccy": "JOD",
+    "ccyNm_RU": "Иорданский динар",
+    "ccyNm_UZ": "Iordaniya dinori",
+    "ccyNm_UZC": "Иордания динори",
+    "ccyNm_EN": "Jordanian Dinar",
+    "nominal": "1"
+  },
+  {
+    "code": "036",
+    "ccy": "AUD",
+    "ccyNm_RU": "Австралийский доллар",
+    "ccyNm_UZ": "Avstraliya dollari",
+    "ccyNm_UZC": "Австралия доллари",
+    "ccyNm_EN": "Australian Dollar",
+    "nominal": "1"
+  },
+  {
+    "code": "417",
+    "ccy": "KGS",
+    "ccyNm_RU": "Киргизский сом",
+    "ccyNm_UZ": "Qirg‘iz somi",
+    "ccyNm_UZC": "Қирғиз соми",
+    "ccyNm_EN": "Kyrgyzstan Som",
+    "nominal": "1"
+  },
+  {
+    "code": "116",
+    "ccy": "KHR",
+    "ccyNm_RU": "Риель",
+    "ccyNm_UZ": "Kambodja riyeli",
+    "ccyNm_UZC": "Камбоджа риели",
+    "ccyNm_EN": "Riel",
+    "nominal": "3"
+  },
+  {
+    "code": "410",
+    "ccy": "KRW",
+    "ccyNm_RU": "Вона Республики Корея",
+    "ccyNm_UZ": "Koreya Respublikasi voni",
+    "ccyNm_UZC": "Корея Республикаси вони",
+    "ccyNm_EN": "The Korean Republic Won",
+    "nominal": "1"
+  },
+  {
+    "code": "414",
+    "ccy": "KWD",
+    "ccyNm_RU": "Кувейтский динар",
+    "ccyNm_UZ": "Quvayt dinori",
+    "ccyNm_UZC": "Қувайт динори",
+    "ccyNm_EN": "Kuwaiti Dinar",
+    "nominal": "1"
+  },
+  {
+    "code": "398",
+    "ccy": "KZT",
+    "ccyNm_RU": "Казахстанский тенге",
+    "ccyNm_UZ": "Qozog‘iston tengesi",
+    "ccyNm_UZC": "Қозоғистон тенгеси",
+    "ccyNm_EN": "Kazakhstan Tenge",
+    "nominal": "1"
+  },
+  {
+    "code": "418",
+    "ccy": "LAK",
+    "ccyNm_RU": "Лаосский кип",
+    "ccyNm_UZ": "Laos kipisi",
+    "ccyNm_UZC": "Лаос киписи",
+    "ccyNm_EN": "Lao Kip",
+    "nominal": "3"
+  },
+  {
+    "code": "422",
+    "ccy": "LBP",
+    "ccyNm_RU": "Ливанский фунт",
+    "ccyNm_UZ": "Livan funti",
+    "ccyNm_UZC": "Ливан фунти",
+    "ccyNm_EN": "Lebanese Pound",
+    "nominal": "3"
+  },
+  {
+    "code": "434",
+    "ccy": "LYD",
+    "ccyNm_RU": "Ливийский динар",
+    "ccyNm_UZ": "Liviya dinori",
+    "ccyNm_UZC": "Ливия динори",
+    "ccyNm_EN": "Libyan Dinar",
+    "nominal": "1"
+  },
+  {
+    "code": "504",
+    "ccy": "MAD",
+    "ccyNm_RU": "Марокканский дирхам",
+    "ccyNm_UZ": "Marokash dirhami",
+    "ccyNm_UZC": "Марокаш дирҳами",
+    "ccyNm_EN": "Moroccan Dirham",
+    "nominal": "1"
+  },
+  {
+    "code": "498",
+    "ccy": "MDL",
+    "ccyNm_RU": "Молдавский лей",
+    "ccyNm_UZ": "Moldaviya leyi",
+    "ccyNm_UZC": "Молдавия лейи",
+    "ccyNm_EN": "Moldovan Leu",
+    "nominal": "1"
+  },
+  {
+    "code": "104",
+    "ccy": "MMK",
+    "ccyNm_RU": "Мьянманский кьят",
+    "ccyNm_UZ": "Myanma kyati",
+    "ccyNm_UZC": "Мьянма кьяти",
+    "ccyNm_EN": "Kyat",
+    "nominal": "3"
+  },
+  {
+    "code": "496",
+    "ccy": "MNT",
+    "ccyNm_RU": "Монгольский тугpик",
+    "ccyNm_UZ": "Mongoliya tugriki",
+    "ccyNm_UZC": "Монголия тугрики",
+    "ccyNm_EN": "Tugrik",
+    "nominal": "1"
+  },
+  {
+    "code": "484",
+    "ccy": "MXN",
+    "ccyNm_RU": "Мексиканское песо",
+    "ccyNm_UZ": "Meksika pesosi",
+    "ccyNm_UZC": "Мексика песоси",
+    "ccyNm_EN": "Mexican Peso",
+    "nominal": "1"
+  },
+  {
+    "code": "458",
+    "ccy": "MYR",
+    "ccyNm_RU": "Малайзийский ринггит",
+    "ccyNm_UZ": "Malayziya ringgiti",
+    "ccyNm_UZC": "Малайзия ринггити",
+    "ccyNm_EN": "Malaysian Ringgit",
+    "nominal": "1"
+  },
+  {
+    "code": "578",
+    "ccy": "NOK",
+    "ccyNm_RU": "Норвежская крона",
+    "ccyNm_UZ": "Norvegiya kronasi",
+    "ccyNm_UZC": "Норвегия кронаси",
+    "ccyNm_EN": "Norwegian Krone",
+    "nominal": "1"
+  },
+  {
+    "code": "554",
+    "ccy": "NZD",
+    "ccyNm_RU": "Новозеландский доллар",
+    "ccyNm_UZ": "Yangi Zelandiya dollari",
+    "ccyNm_UZC": "Янги Зеландия доллари",
+    "ccyNm_EN": "New Zealand Dollar",
+    "nominal": "1"
+  },
+  {
+    "code": "512",
+    "ccy": "OMR",
+    "ccyNm_RU": "Оманский риал",
+    "ccyNm_UZ": "Ummon riali",
+    "ccyNm_UZC": "Уммон риали",
+    "ccyNm_EN": "Rial Omani",
+    "nominal": "1"
+  },
+  {
+    "code": "608",
+    "ccy": "PHP",
+    "ccyNm_RU": "Филиппинское песо",
+    "ccyNm_UZ": "Filippin pesosi",
+    "ccyNm_UZC": "Филиппин песоси",
+    "ccyNm_EN": "Philippine Piso",
+    "nominal": "1"
+  },
+  {
+    "code": "586",
+    "ccy": "PKR",
+    "ccyNm_RU": "Пакистанская рупия",
+    "ccyNm_UZ": "Pokiston rupiyasi",
+    "ccyNm_UZC": "Покистон рупияси",
+    "ccyNm_EN": "Pakistan Rupee",
+    "nominal": "1"
+  },
+  {
+    "code": "985",
+    "ccy": "PLN",
+    "ccyNm_RU": "Злотый",
+    "ccyNm_UZ": "Polsha zlotiysi",
+    "ccyNm_UZC": "Польша злотийси",
+    "ccyNm_EN": "Polish Zloty",
+    "nominal": "1"
+  },
+  {
+    "code": "634",
+    "ccy": "QAR",
+    "ccyNm_RU": "Катарский риал",
+    "ccyNm_UZ": "Qatar riali",
+    "ccyNm_UZC": "Қатар риали",
+    "ccyNm_EN": "Qatari Rial",
+    "nominal": "1"
+  },
+  {
+    "code": "946",
+    "ccy": "RON",
+    "ccyNm_RU": "Румынский лей",
+    "ccyNm_UZ": "Ruminiya leyi",
+    "ccyNm_UZC": "Руминия лейи",
+    "ccyNm_EN": "Romanian Leu",
+    "nominal": "1"
+  },
+  {
+    "code": "941",
+    "ccy": "RSD",
+    "ccyNm_RU": "Сербский динар",
+    "ccyNm_UZ": "Serbiya dinori",
+    "ccyNm_UZC": "Сербия динори",
+    "ccyNm_EN": "Serbian Dinar",
+    "nominal": "1"
+  },
+  {
+    "code": "051",
+    "ccy": "AMD",
+    "ccyNm_RU": "Армянский драм",
+    "ccyNm_UZ": "Armaniston drami",
+    "ccyNm_UZC": "Арманистон драми",
+    "ccyNm_EN": "Armenian Dram",
+    "nominal": "1"
+  },
+  {
+    "code": "682",
+    "ccy": "SAR",
+    "ccyNm_RU": "Саудовский риял",
+    "ccyNm_UZ": "Saudiya Arabistoni riali",
+    "ccyNm_UZC": "Саудия Арабистони риали",
+    "ccyNm_EN": "Saudi Riyal",
+    "nominal": "1"
+  },
+  {
+    "code": "938",
+    "ccy": "SDG",
+    "ccyNm_RU": "Суданский фунт",
+    "ccyNm_UZ": "Sudan funti",
+    "ccyNm_UZC": "Судан фунти",
+    "ccyNm_EN": "Sudanese Pound",
+    "nominal": "1"
+  },
+  {
+    "code": "752",
+    "ccy": "SEK",
+    "ccyNm_RU": "Шведская крона",
+    "ccyNm_UZ": "Shvetsiya kronasi",
+    "ccyNm_UZC": "Швеция кронаси",
+    "ccyNm_EN": "Swedish Krona",
+    "nominal": "1"
+  },
+  {
+    "code": "702",
+    "ccy": "SGD",
+    "ccyNm_RU": "Сингапурский доллар",
+    "ccyNm_UZ": "Singapur dollari",
+    "ccyNm_UZC": "Сингапур доллари",
+    "ccyNm_EN": "Singapore Dollar",
+    "nominal": "1"
+  },
+  {
+    "code": "760",
+    "ccy": "SYP",
+    "ccyNm_RU": "Сирийский фунт",
+    "ccyNm_UZ": "Suriya funti",
+    "ccyNm_UZC": "Сурия фунти",
+    "ccyNm_EN": "Syrian Pound",
+    "nominal": "1"
+  },
+  {
+    "code": "764",
+    "ccy": "THB",
+    "ccyNm_RU": "Бат",
+    "ccyNm_UZ": "Tailand bati",
+    "ccyNm_UZC": "Таиланд бати",
+    "ccyNm_EN": "Baht",
+    "nominal": "1"
+  },
+  {
+    "code": "972",
+    "ccy": "TJS",
+    "ccyNm_RU": "Сомони",
+    "ccyNm_UZ": "Tojikiston somonisi",
+    "ccyNm_UZC": "Тожикистон сомониси",
+    "ccyNm_EN": "Tajikistan Somoni",
+    "nominal": "1"
+  },
+  {
+    "code": "934",
+    "ccy": "TMT",
+    "ccyNm_RU": "Новый туркменский манат",
+    "ccyNm_UZ": "Turkmaniston manati",
+    "ccyNm_UZC": "Туркманистон манати",
+    "ccyNm_EN": "Turkmenistan New Manat",
+    "nominal": "1"
+  },
+  {
+    "code": "788",
+    "ccy": "TND",
+    "ccyNm_RU": "Тунисский динар",
+    "ccyNm_UZ": "Tunis dinori",
+    "ccyNm_UZC": "Тунис динори",
+    "ccyNm_EN": "Tunisian Dinar",
+    "nominal": "1"
+  },
+  {
+    "code": "949",
+    "ccy": "TRY",
+    "ccyNm_RU": "Турецкая лира",
+    "ccyNm_UZ": "Turkiya lirasi",
+    "ccyNm_UZC": "Туркия лираси",
+    "ccyNm_EN": "Turkish Lira",
+    "nominal": "1"
+  },
+  {
+    "code": "980",
+    "ccy": "UAH",
+    "ccyNm_RU": "Гривна",
+    "ccyNm_UZ": "Ukraina grivnasi",
+    "ccyNm_UZC": "Украина гривнаси",
+    "ccyNm_EN": "Ukrainian Hryvnia",
+    "nominal": "1"
+  },
+  {
+    "code": "784",
+    "ccy": "AED",
+    "ccyNm_RU": "Дирхам ОАЭ",
+    "ccyNm_UZ": "BAA dirhami",
+    "ccyNm_UZC": "БАА дирҳами",
+    "ccyNm_EN": "UAE Dirham",
+    "nominal": "1"
+  },
+  {
+    "code": "858",
+    "ccy": "UYU",
+    "ccyNm_RU": "Уругвайское песо",
+    "ccyNm_UZ": "Urugvay pesosi",
+    "ccyNm_UZC": "Уругвай песоси",
+    "ccyNm_EN": "Peso Uruguayo",
+    "nominal": "1"
+  },
+  {
+    "code": "928",
+    "ccy": "VES",
+    "ccyNm_RU": "Венесуэльский боливар",
+    "ccyNm_UZ": "Venesuela bolivari",
+    "ccyNm_UZC": "Венесуэла боливари",
+    "ccyNm_EN": "Bolívar",
+    "nominal": "1"
+  },
+  {
+    "code": "704",
+    "ccy": "VND",
+    "ccyNm_RU": "Донг",
+    "ccyNm_UZ": "Vetnam dongi",
+    "ccyNm_UZC": "Вьетнам донги",
+    "ccyNm_EN": "Dong",
+    "nominal": "1"
+  },
+  {
+    "code": "960",
+    "ccy": "XDR",
+    "ccyNm_RU": "СДР",
+    "ccyNm_UZ": "SDR",
+    "ccyNm_UZC": "СДР",
+    "ccyNm_EN": "SDR",
+    "nominal": "1"
+  },
+  {
+    "code": "886",
+    "ccy": "YER",
+    "ccyNm_RU": "Йеменский риал",
+    "ccyNm_UZ": "Yaman riali",
+    "ccyNm_UZC": "Яман риали",
+    "ccyNm_EN": "Yemeni Rial",
+    "nominal": "1"
+  },
+  {
+    "code": "710",
+    "ccy": "ZAR",
+    "ccyNm_RU": "Рэнд",
+    "ccyNm_UZ": "Janubiy Afrika randi",
+    "ccyNm_UZC": "Жанубий Африка ранди",
+    "ccyNm_EN": "Rand",
+    "nominal": "1"
+  },
+  {
+    "code": "777",
+    "ccy": "UZS",
+    "ccyNm_RU": "So'm",
+    "ccyNm_UZ": "So'm",
+    "ccyNm_UZC": "So'm",
+    "ccyNm_EN": "So'm",
+    "nominal": "1"
+  }
+]
